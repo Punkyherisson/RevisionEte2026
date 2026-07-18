@@ -1,0 +1,17 @@
+Semaine;Cours DataCamp;Objectif;Durée estimée;Priorité;Done
+S1;Understanding Data Visualization;Revoir les bases de la lecture et du choix des graphiques.;3 h;Haute;
+S1;Introduction to Statistics;Remettre à niveau les bases statistiques avant les modules d’application.;3 h;Haute;
+S2;Data Manipulation with pandas;Réviser les manipulations essentielles de DataFrames.;4 h;Haute;
+S2;Joining Data with pandas;Revoir jointures, combinaisons et assemblages de données.;3 h;Haute;
+S3;Introduction to Power BI;Reprendre l’environnement Power BI et les bases du workflow.;3 h;Haute;
+S3;Exploratory Data Analysis in Power BI;Réviser l’EDA avec distribution, valeurs manquantes et outliers.;3 h;Haute;
+S4;Data Modeling in Power BI;Consolider la logique de modèle de données.;3 h;Moyenne;
+S4;Introduction to DAX in Power BI;Réviser les mesures, colonnes calculées et contexte.;3 h;Haute;
+S5;Data Visualization in Power BI;Travailler les visuels, la lisibilité et les bonnes pratiques.;3 h;Haute;
+S5;Report Design in Power BI;Améliorer la présentation et la structure des rapports.;3 h;Moyenne;
+S6;Reshaping Data with pandas;Réviser reshape, pivot, melt, wide/long format.;3 h;Moyenne;
+S6;Streamlined Data Ingestion with pandas;Revoir l’import de données depuis fichiers, SQL et API.;3.5 h;Moyenne;
+S7;Exploratory Data Analysis in Power BI;Refaire les exercices clés d’EDA pour consolider.;3 h;Haute;
+S7;Data Manipulation with pandas;Révision rapide des gestes essentiels en pandas.;2 h;Moyenne;
+S8;Power BI Fundamentals;Faire une synthèse complète Power BI avant la rentrée.;4 h;Moyenne;
+S8;Design in Power BI ou User-Oriented Design in Power BI;Travailler la mise en forme, l’UX et la clarté du dashboard.;2 h;Basse;
